@@ -1,0 +1,10 @@
+D:\Visua;\clicker\clicker\bin\Debug\clicker.exe.config
+D:\Visua;\clicker\clicker\bin\Debug\clicker.exe
+D:\Visua;\clicker\clicker\bin\Debug\clicker.pdb
+D:\Visua;\clicker\clicker\obj\Debug\clicker.csprojAssemblyReference.cache
+D:\Visua;\clicker\clicker\obj\Debug\clicker.Form1.resources
+D:\Visua;\clicker\clicker\obj\Debug\clicker.Properties.Resources.resources
+D:\Visua;\clicker\clicker\obj\Debug\clicker.csproj.GenerateResource.cache
+D:\Visua;\clicker\clicker\obj\Debug\clicker.csproj.CoreCompileInputs.cache
+D:\Visua;\clicker\clicker\obj\Debug\clicker.exe
+D:\Visua;\clicker\clicker\obj\Debug\clicker.pdb

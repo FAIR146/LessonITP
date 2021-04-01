@@ -1,0 +1,7 @@
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\bin\Debug\GitHubLesson.exe.config
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\bin\Debug\GitHubLesson.exe
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\bin\Debug\GitHubLesson.pdb
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\obj\Debug\GitHubLesson.csprojAssemblyReference.cache
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\obj\Debug\GitHubLesson.csproj.CoreCompileInputs.cache
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\obj\Debug\GitHubLesson.exe
+D:\Visua;\GitHubLesson\GitHubLesson\GitHubLesson\obj\Debug\GitHubLesson.pdb
