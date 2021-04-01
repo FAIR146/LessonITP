@@ -13,6 +13,13 @@ namespace GitHubLesson
             string name = Console.ReadLine();
             Console.WriteLine($"Hello, {name}");
 
+
+            Random r = new Random();
+            int a = r.Next(0, 100 + 1), b = r.Next(0, 100);
+            Console.WriteLine($"{a}+{b} = {a+b}.");
+            
+            Console.ReadKey();
+
             Console.ReadLine();
         }
     }
